@@ -33,9 +33,6 @@ import processing
 import rasterio
 import numpy
 
-#########################
-# CONSTANTS
-#########################
 # Same Canada land cover classification as the wildfire plugin's FUELS table,
 # but mapped to Manning's roughness and a steady-state infiltration rate
 # instead of a fuel model. These are generic values from the literature, not
