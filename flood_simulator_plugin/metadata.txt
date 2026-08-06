@@ -1,0 +1,11 @@
+[general]
+name=Flood Simulator
+qgisMinimumVersion=3.16
+description=Prepares Cell-DEVS flood inundation scenarios (DEM + land cover + river/rain forcing) and loads back the simulation results with temporal playback.
+version=0.1
+author=wildfire project
+email=noreply@example.com
+about=Companion plugin to the Wildfire Simulator plugin. Builds a JSON scenario for the diffusive-wave (Manning-based) flood Cell-DEVS model and loads the resulting CSV as a temporal layer.
+tracker=https://github.com/murf85/wildfire/issues
+repository=https://github.com/murf85/wildfire
+category=Plugins
